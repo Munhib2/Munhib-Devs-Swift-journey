@@ -1,6 +1,3 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-23 at 01 32 56" src="https://github.com/user-attachments/assets/a255599d-1a7f-45ed-b317-c93b55e0aa68" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-23 at 01 32 39" src="https://github.com/user-attachments/assets/f4a88bdb-a7fd-4f74-ad2e-81e379df92a3" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-23 at 01 31 53" src="https://github.com/user-attachments/assets/36f1bc68-755a-4007-87f9-8c89460d9b39" />
 # ⚡ Daily Focus – Modern iOS Quote App
 
 A minimal, aesthetic, and modern SwiftUI iOS application designed to inspire and keep you focused every day. Built with a sleek dark glassmorphism design, real-time API integration, and full offline local storage support.
@@ -11,7 +8,7 @@ A minimal, aesthetic, and modern SwiftUI iOS application designed to inspire and
 
 | Home View | Saved Quotes | Native Sharing |
 | :---: | :---: | :---: |
-| <img src="screenshots/home.jpg" width="260" /> | <img src="screenshots/saved.jpg" width="260" /> | <img src="screenshots/share.jpg" width="260" /> |
+| <img src="https://github.com/user-attachments/assets/36f1bc68-755a-4007-87f9-8c89460d9b39" width="260" /> | <img src="https://github.com/user-attachments/assets/f4a88bdb-a7fd-4f74-ad2e-81e379df92a3" width="260" /> | <img src="https://github.com/user-attachments/assets/a255599d-1a7f-45ed-b317-c93b55e0aa68" width="260" /> |
 
 ---
 

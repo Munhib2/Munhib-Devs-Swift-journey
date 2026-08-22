@@ -34,5 +34,3 @@ A minimal, aesthetic, and modern SwiftUI iOS application designed to inspire and
 - **Target OS:** iOS 16.0+
 
 ---
-
-## 🚀 Getting Started
